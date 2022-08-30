@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9531" started-at="2022-08-29T13:13:44 CDT" finished-at="2022-08-29T13:13:53 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9531" started-at="2022-08-29T13:13:44 CDT" finished-at="2022-08-29T13:13:53 CDT">
+      <class name="test.Page1Test">
+        <test-method status="PASS" signature="userValidateCatagoryField()[pri:0, instance:test.Page1Test@4d41cee]" name="userValidateCatagoryField" duration-ms="9496" started-at="2022-08-29T13:13:44 CDT" finished-at="2022-08-29T13:13:53 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidateCatagoryField -->
+      </class> <!-- test.Page1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
